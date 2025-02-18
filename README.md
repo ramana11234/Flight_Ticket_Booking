@@ -17,11 +17,11 @@ The Simple Airline Booking System is a GUIbased application developed using Pyth
  Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/airlinebookingsystem.git
+   git clone https://github.com/ramana11234/Flight_Ticket_Booking.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd airlinebookingsystem
+   cd Flight_Ticket_Booking
    ```
 3. Ensure you have Python installed (recommended: Python 3.x).
 4. Install required dependencies (if any):
